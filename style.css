@@ -6,7 +6,16 @@ body{
 .avatar{
     width: 150px;
 }
+.card-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+a{
+ color: #361134;;
+  text-decoration: none;
 
+}
 .card{
     background-color: #FFADC6;
     margin: 0 auto;
